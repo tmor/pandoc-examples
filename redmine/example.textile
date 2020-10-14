@@ -1,0 +1,42 @@
+h1. Redmine wiki(textile)
+
+h2. Text
+
+It's very easy to make some words *bold* and other words _italic_ with Markdown. You can even "link to Google!":http://google.com
+
+h2. List
+
+Sometimes you want numbered lists:
+
+# One
+# Two
+# Three
+
+Sometimes you want bullet points:
+
+* Start a line with a star
+* Profit!
+
+Alternatively,
+
+* Dashes work just as well
+* And if you have sub points, put two spaces before the dash or star:
+** Like this
+** And this
+
+h2. Code
+
+JavaScript:
+
+<pre>
+if (isAwesome){
+  return true
+}
+</pre>
+
+
+h2. Table
+
+|_. title1|_. title2|
+|item1|item2|
+|item3|item4|
